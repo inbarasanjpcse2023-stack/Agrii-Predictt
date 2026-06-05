@@ -1,5 +1,4 @@
-# ApnaAnaaj (Crop_Prediction)
-[![ApnaAnaaj](https://github.com/rahuldkjain/Crop_Prediction/blob/master/static/ApnaAnaajLogo.png)](https://github.com/rahuldkjain/Crop_Prediction)
+## AGRI PREDICT (Crop_Prediction)
 
 ## Features
   - Around 23 commodities(including all kind of crops) crop value forecasting
